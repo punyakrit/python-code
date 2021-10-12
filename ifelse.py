@@ -8,6 +8,7 @@ if num1<num2:
 else:
     print('Second Number is smallest')
 
+    
 
 
 #    or for if-else
